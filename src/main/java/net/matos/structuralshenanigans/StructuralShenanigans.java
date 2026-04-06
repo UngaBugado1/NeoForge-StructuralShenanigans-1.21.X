@@ -1,5 +1,5 @@
 package net.matos.structuralshenanigans;
-
+// Hello World!
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
