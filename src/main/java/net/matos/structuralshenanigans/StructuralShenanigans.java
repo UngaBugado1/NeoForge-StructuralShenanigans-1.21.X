@@ -15,6 +15,7 @@ import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import net.neoforged.neoforge.event.server.ServerStartingEvent;
 // Hello
+// Hello 2
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(StructuralShenanigans.MOD_ID)
 public class StructuralShenanigans {
